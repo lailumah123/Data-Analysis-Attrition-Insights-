@@ -1,0 +1,19 @@
+data analysis project
+SCOPE:
+key drivers of employee attrition
+select KPIs (key performance indicators) accordingly
+
+get data in power bi , transform it (data cleaning)
+DATA CLEANING:
+remove dulicates (selet column do to view and tick column quality and it will tell if there is anty empty values
+1.   if null values (sort ascending then see row jahan tk its null and simply go to home clich remove rows 
+select top rows and typr no of rows to remove)
+2.  to remove duplicates select one column (first) and press shift and select last co (entire data selected)
+click on first row an remove duplcates 
+3.  last look for spelling mistakes and right click on clumn and replace values TravelRarely with 
+'Travel_Rarely" cuz theyre same
+4. Detect Data type, for that select entire data go to transform and click on detect data type 
+CLOSE AND APPLY krdo wrna wont save
+
+
+callout or title ka color change krdena or canvas bg browse krke koi bhi pic laga skte hain

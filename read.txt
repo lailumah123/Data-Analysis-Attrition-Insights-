@@ -1,0 +1,24 @@
+Data Analysis Project(HR ANALYSIS)
+
+SCOPE:
+The main objective of this project is to identify the key drivers of employee attrition and select Key Performance Indicators (KPIs) accordingly.
+
+Data Collection and Preparation in Power BI:
+1. Obtain the necessary data and import it into Power BI for analysis.
+2. Perform data cleaning to ensure the data is accurate and reliable.
+
+Data Cleaning:
+1. Remove duplicates: Select the column to view and check for any empty values. If null values are present, sort the data in ascending order and remove the rows with null values. Additionally, select the top rows and specify the number of rows to remove.
+2. To remove duplicates, select the entire dataset and click on the "Remove Duplicates" option after selecting the first and last columns.
+3. Check for spelling mistakes: Right-click on the column containing potential spelling errors and replace incorrect values (e.g., "TravelRarely" with "Travel_Rarely").
+4. Detect Data Types: Select the entire dataset, go to the "Transform" tab, and click on "Detect Data Type". Ensure that the data types are correctly identified.
+
+Finalization:
+After completing data cleaning, close and apply the changes to save the cleaned dataset.
+
+Additional Customizations:
+1. Customize callouts or titles by changing their color.
+2. Personalize the canvas background by browsing and selecting any desired picture.
+
+By following these steps, you can effectively analyze the data to identify the key drivers of employee attrition and select appropriate KPIs for further analysis.
+add desired graphs to showcase insights
